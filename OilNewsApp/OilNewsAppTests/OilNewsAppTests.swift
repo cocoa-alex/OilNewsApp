@@ -1,15 +1,15 @@
 //
-//  DoubleTests.swift
-//  DoubleTests
+//  OilNewsAppTests.swift
+//  OilNewsAppTests
 //
-//  Created by steve on 14-7-15.
+//  Created by steve on 14-7-29.
 //  Copyright (c) 2014年 steve. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class DoubleTests: XCTestCase {
+class OilNewsAppTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

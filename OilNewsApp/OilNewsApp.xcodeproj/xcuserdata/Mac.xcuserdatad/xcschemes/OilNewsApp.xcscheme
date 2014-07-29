@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04810B151974F5CA00D00DC0"
-               BuildableName = "Double.app"
-               BlueprintName = "Double"
-               ReferencedContainer = "container:Double.xcodeproj">
+               BlueprintIdentifier = "04ABF729198791F8002B188A"
+               BuildableName = "OilNewsApp.app"
+               BlueprintName = "OilNewsApp"
+               ReferencedContainer = "container:OilNewsApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "04810B271974F5CA00D00DC0"
-               BuildableName = "DoubleTests.xctest"
-               BlueprintName = "DoubleTests"
-               ReferencedContainer = "container:Double.xcodeproj">
+               BlueprintIdentifier = "04ABF73B198791F8002B188A"
+               BuildableName = "OilNewsAppTests.xctest"
+               BlueprintName = "OilNewsAppTests"
+               ReferencedContainer = "container:OilNewsApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04810B151974F5CA00D00DC0"
-            BuildableName = "Double.app"
-            BlueprintName = "Double"
-            ReferencedContainer = "container:Double.xcodeproj">
+            BlueprintIdentifier = "04ABF729198791F8002B188A"
+            BuildableName = "OilNewsApp.app"
+            BlueprintName = "OilNewsApp"
+            ReferencedContainer = "container:OilNewsApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04810B151974F5CA00D00DC0"
-            BuildableName = "Double.app"
-            BlueprintName = "Double"
-            ReferencedContainer = "container:Double.xcodeproj">
+            BlueprintIdentifier = "04ABF729198791F8002B188A"
+            BuildableName = "OilNewsApp.app"
+            BlueprintName = "OilNewsApp"
+            ReferencedContainer = "container:OilNewsApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "04810B151974F5CA00D00DC0"
-            BuildableName = "Double.app"
-            BlueprintName = "Double"
-            ReferencedContainer = "container:Double.xcodeproj">
+            BlueprintIdentifier = "04ABF729198791F8002B188A"
+            BuildableName = "OilNewsApp.app"
+            BlueprintName = "OilNewsApp"
+            ReferencedContainer = "container:OilNewsApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

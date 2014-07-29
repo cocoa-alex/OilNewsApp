@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Double.xcscheme</key>
+		<key>OilNewsApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>04810B151974F5CA00D00DC0</key>
+		<key>04ABF729198791F8002B188A</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>04810B271974F5CA00D00DC0</key>
+		<key>04ABF73B198791F8002B188A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

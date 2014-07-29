@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Double
+//  OilNewsApp
 //
-//  Created by steve on 14-7-15.
+//  Created by steve on 14-7-29.
 //  Copyright (c) 2014年 steve. All rights reserved.
 //
 
