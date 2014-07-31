@@ -12,6 +12,7 @@
 		04ABF735198791F8002B188A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF733198791F8002B188A /* Main.storyboard */; };
 		04ABF737198791F8002B188A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04ABF736198791F8002B188A /* Images.xcassets */; };
 		04ABF743198791F8002B188A /* OilNewsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ABF742198791F8002B188A /* OilNewsAppTests.swift */; };
+		04F6A019198A138700A117F6 /* HttpController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F6A018198A138700A117F6 /* HttpController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		04ABF73C198791F8002B188A /* OilNewsAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OilNewsAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04ABF741198791F8002B188A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04ABF742198791F8002B188A /* OilNewsAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OilNewsAppTests.swift; sourceTree = "<group>"; };
+		04F6A018198A138700A117F6 /* HttpController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				04ABF733198791F8002B188A /* Main.storyboard */,
 				04ABF736198791F8002B188A /* Images.xcassets */,
 				04ABF72D198791F8002B188A /* Supporting Files */,
+				04F6A018198A138700A117F6 /* HttpController.swift */,
 			);
 			path = OilNewsApp;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				04ABF732198791F8002B188A /* ViewController.swift in Sources */,
 				04ABF730198791F8002B188A /* AppDelegate.swift in Sources */,
+				04F6A019198A138700A117F6 /* HttpController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -395,6 +399,7 @@
 				04ABF748198791F8002B188A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04ABF749198791F8002B188A /* Build configuration list for PBXNativeTarget "OilNewsAppTests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +408,7 @@
 				04ABF74B198791F8002B188A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
